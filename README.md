@@ -12,12 +12,12 @@ Because I DO NOT like powerline much, and I like simple things.
 
 1. normal and error return color
 
-![powerpromt-normal](screenshots\powerpromt-normal.png)
+![powerpromt-normal](screenshots/powerpromt-normal.png)
 
 2. Python venv color
 
-![powerpromt-venv](screenshots\powerpromt-venv.png)
+![powerpromt-venv](screenshots/powerpromt-venv.png)
 
 3. Git color
 
-![powerpromt-git](screenshots\powerpromt-git.png)
+![powerpromt-git](screenshots/powerpromt-git.png)
