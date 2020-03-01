@@ -1,7 +1,5 @@
 # PowerPrompt-My(A posh theme)
 
----
-
 > An oh-my-posh theme inspired by [**posh-theme-PowerPrompt**](https://github.com/Nomango/posh-theme-PowerPrompt).
 
 ## Why another posh color theme?
