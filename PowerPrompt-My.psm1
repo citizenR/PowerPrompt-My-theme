@@ -11,8 +11,8 @@ function Write-Theme {
 
     $lastColor = $sl.Colors.PromptBackgroundColor
     $user = [System.Environment]::UserName
-    $userSymbol = " > "
-    $adminSymbol = " $ "
+    $userSymbol = " λ "
+    $adminSymbol = " # "
 
     #check the last command state and indicate if failed
     #check for elevated prompt
